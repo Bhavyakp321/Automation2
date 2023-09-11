@@ -34,7 +34,7 @@ ${timesheet}                //a[@href="/time-sheet"]
 
 ${browser}                           chrome
 ${gmail}                      bhavya.kp@terralogic.com
-${pswd}                             bhavya@321
+${pswd}                             Bhavana@321
 ${enter}                              RETURN
 
 
