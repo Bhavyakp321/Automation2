@@ -34,7 +34,7 @@ ${front_icon}               //button[2][@class="ant-btn ant-btn-link ant-btn-lg 
 
 ${browser}                           chrome
 ${gmail}                      bhavya.kp@terralogic.com
-${pswd}                             bhavya@321
+${pswd}                             Bhavana@321
 ${enter}                              RETURN
 
 *** Test Cases ***
